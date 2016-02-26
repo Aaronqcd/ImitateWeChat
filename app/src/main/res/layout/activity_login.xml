@@ -79,8 +79,7 @@
         android:id="@+id/registerLink"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:textColor="#697C9F"
-        android:autoLink="web" />
+        android:textColor="#697C9F" />
 
 
 </RelativeLayout>
